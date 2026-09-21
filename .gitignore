@@ -1,0 +1,10 @@
+# Configuración local generada por `supabase init` / `supabase link`
+# Puede contener tokens de acceso temporales — nunca se sube al repo.
+supabase/.temp/
+supabase/.branches/
+.env
+.env.local
+
+# Sistema
+.DS_Store
+Thumbs.db
